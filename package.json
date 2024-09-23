@@ -11,7 +11,7 @@
   "type": "module",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "rss": "^1.2.2",
     "wasteof-client": "^3.2.0"
   }
